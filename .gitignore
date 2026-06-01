@@ -1,0 +1,8 @@
+# VS Code extensions (should never be committed)
+.vscode/extensions/
+
+# Windows AppData
+AppData/
+
+# Node modules
+node_modules/
