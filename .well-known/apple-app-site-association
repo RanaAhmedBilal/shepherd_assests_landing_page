@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "65ZJFZ948A.com.shepherdassets",
+        "paths": ["/plaid/*"]
+      }
+    ]
+  }
+}
